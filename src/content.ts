@@ -35,18 +35,18 @@ export const content: LetterContent = {
   letter: {
     salutation: "Gửi Ngọc Linh,",
     paragraphs: [
-      "Chúc em một ngày 20/10 thật vui, nhận được nhiều lời chúc dễ thương và có thời gian làm những điều em thích. Mong em luôn được yêu quý, được lắng nghe và được trân trọng.",
-      "Anh cũng có một điều muốn nói với em: anh xin lỗi vì đã thiếu tôn trọng em. Anh đã sai khi cư xử như vậy. Việc anh em mình thân thiết không có nghĩa là anh được phép xem nhẹ cảm xúc của em.",
-      "Anh quý tình cảm anh em mình, và anh hiểu rằng lời xin lỗi cần đi cùng cách cư xử tốt hơn. Anh sẽ chú ý hơn đến lời nói, lắng nghe em và tôn trọng những điều khiến em không thoải mái.",
-      "Anh mong em có thể bỏ qua cho anh. Nhưng em không cần phải trả lời ngay hay cảm thấy mình phải tha thứ chỉ vì nhận được lá thư này. Nếu em muốn nói thêm, anh sẵn lòng nghe.",
-      "Chúc Ngọc Linh một ngày 20/10 thật nhẹ nhàng và nhiều niềm vui.",
+      "Chúc em một ngày 20/10 thật vui vẻ nhó, nhận được nhiều lời chúc dễ thương và có thời gian làm những điều em thích. Mong em luôn được yêu quý, được lắng nghe và được trân trọng.",
+      "Anh cũng có một điều muốn nói với em: anh rất xin lỗi vì đã nói chuyện thiếu tôn trọng em ở trường đợt vừa rùi. Anh đã sai khi cư xử như vậy, và anh hối hận vì điều đó nhìu lắm huhu.",
+      "Anh rất trân quý mối quan hệ của anh em mình, và anh hiểu rằng lời xin lỗi cần đi cùng cách cư xử tốt hơn. Anh sẽ chú ý hơn đến lời nói, lắng nghe em và tôn trọng những điều khiến em không thoải mái.",
+      "Anh mong em có thể bỏ qua cho anh. Nhưng em không cần phải trả lời ngay hay cảm thấy mình phải tha thứ chỉ vì nhận được lá thư này. Nếu em muốn chia sẻ gì thêm, anh sẵn lòng nghe nha.",
+      "Chúc em bé một ngày 20/10 thật nhẹ nhàng và nhiều niềm vui.",
     ],
     closing: "",
-    signature: "Anh.",
+    signature: "Anh Long",
   },
   flowerGift: {
     buttonText: "Một bó hoa nhỏ cho em",
     flowerTitle: "Bó hoa nhỏ tặng em",
-    flowerCaption: "Chúc em một ngày 20/10 thật vui.",
+    flowerCaption: "Chúc em một ngày 20/10 thật vui vẻ.",
   },
 };
